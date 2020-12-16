@@ -1,0 +1,3 @@
+[submodule "ticketing-common"]
+	path = ticketing-common
+	url = git@github.com:erikrasmusnilsson/ticketing-common.git
